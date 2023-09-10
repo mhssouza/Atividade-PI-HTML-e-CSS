@@ -1,0 +1,31 @@
+.div-a {
+    background-color: #207618;
+    width: 500px;
+    height: 500px;
+}
+
+.div-b {
+    background-color: #d6d300;
+    width: 50%;
+    height: 50%;
+}
+
+.paragrafo-c {
+    color: white;
+    background-color: #440e0e;
+    font-size: 25px;
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+}
+
+.div-d {
+    background-color: rgb(90, 149, 92);
+    width: 50%;
+    height: 50vh;
+}
+
+.div-e {
+    background-color: rgb(179, 0, 255);
+    width: 75vw;
+    height: 50%;
+}
